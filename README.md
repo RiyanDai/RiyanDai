@@ -17,7 +17,7 @@
 
 📫 Let's connect! You can reach out to me via:
 - Email: 123riyanaje@gmail.com
-- LinkedIn: [Riyan Daifullah](https://www.linkedin.com/in/riyandaifullah/)
+- LinkedIn: [Riyan Daifullah](https://www.linkedin.com/in/riyan-daifullah/)
 
 ## Let's Build Together!
 
