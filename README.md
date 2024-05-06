@@ -8,6 +8,8 @@
 
 🌱 Currently, I'm diving deep into the world of mobile development, learning new technologies and frameworks along the way.
 
+📚 Additionally, I'm currently pursuing my studies at Gunadarma University, where I'm expanding my knowledge and skills in mobile development through coursework and hands-on projects.
+
 ## Skills
 
 📱 Proficient in:
