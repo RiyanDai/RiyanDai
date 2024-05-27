@@ -1,4 +1,4 @@
-# Riyan Daifullah - Mobile Development Learner
+# Riyan Daifullah 
 
 👋 Hi there! I'm Riyan Daifullah, and I'm on a journey to master mobile development.
 
