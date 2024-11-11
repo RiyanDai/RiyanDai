@@ -14,6 +14,7 @@
 
 📱 Proficient in:
 - Android Development (Java/Kotlin)
+- Flutter Development 
 
 ## Connect
 
